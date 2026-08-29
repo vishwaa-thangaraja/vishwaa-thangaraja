@@ -1,118 +1,115 @@
 <h1 align="center">Vishwaa T</h1>
-<p align="center"><i>Systems-oriented CS engineer — networks, distributed communication, edge intelligence.</i></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <strong>Building systems. Exploring what connects them.</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:vishwaat27@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vishwaa-t/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/VishwaaT/">LeetCode</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/VishwaaT27">GitHub</a>
 </p>
 
 ---
 
-### About
+## About
 
-I work at the intersection of software engineering, computer networks, and intelligent systems — building things that keep functioning when connectivity, infrastructure, or resources are constrained.
+Computer Science student focused on **software engineering, computer networks, distributed systems, and intelligent systems**.
 
-My projects range from self-organizing LAN communication systems to context-aware decision platforms, with a recurring interest in reliability and system behavior under real-world conditions rather than idealized ones.
+I’m interested in how **software, networks, and intelligent systems work together**. My work moves between building practical applications, exploring communication and distributed systems, and experimenting with ideas around intelligent and offline-first computing.
+
+I’m particularly drawn to problems where **reliability, connectivity, and system behavior matter beyond the code itself.**
 
 ### Current Focus
 
-- Adaptive host election and failure-intent modeling in decentralized systems
-- Offline-first and edge-intelligent architectures
-- Strengthening foundations in distributed systems, algorithms, and system design
+- Designing systems that remain useful when **connectivity, infrastructure, or resources are limited**.
+- Exploring **computer networks, distributed communication, and system reliability**.
+- Building practical software while strengthening foundations in **algorithms, architecture, and intelligent systems**.
 
-### Selected Work
+---
 
-**T.E.T.H.E.R.** — Topology-Evolving Transport & Host Election Router. Self-organizing LAN communication layer with predictive host election and seamless migration. `TypeScript · Node.js · Electron · SQLite`
+## What I Work With
 
-**CORED** — Context-Aware Medical Decision Platform. Reduces cognitive load for practitioners through prioritized, context-aware information delivery.
+| Area | Technologies & Concepts |
+|---|---|
+| **Languages** | Java · JavaScript · Python · C · C++ · SQL |
+| **Frontend** | HTML · CSS · React · Tailwind CSS · Vite |
+| **Backend** | Node.js · Express.js |
+| **Mobile** | Flutter · React Native |
+| **Databases** | PostgreSQL · MySQL · SQLite · OracleDB |
+| **Systems & Application Development** | JavaFX · FXML · JDBC · REST APIs · Electron |
+| **Tools** | Git · GitHub · Linux · VS Code · Vercel |
 
-**CSMS** — Centralized School Management System. Role-based, multi-portal enterprise desktop application. `Java · JavaFX · Oracle DB`
+---
 
-### Technical Landscape
+## What's on the Workbench
 
-<p align="left">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-<p align="left">
-<img src="https://img.shields.io/badge/Computer%20Networks-2E7D32?style=flat-square" />
-<img src="https://img.shields.io/badge/Distributed%20Systems-2E7D32?style=flat-square" />
-<img src="https://img.shields.io/badge/Operating%20Systems-2E7D32?style=flat-square" />
-</p>
-<p align="left">
-<img src="https://img.shields.io/badge/Edge%20AI-6A1B9A?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=flat-square" />
-<img src="https://img.shields.io/badge/IoT-6A1B9A?style=flat-square" />
-</p>
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white" />
-</p>
+*A few things currently taking up space on my workbench:*
 
+- **T.E.T.H.E.R.** — engineering a resilient, decentralized communication system around **device discovery, adaptive transport, host election, and seamless host migration**.
+
+- **Computer Networks & Distributed Systems** — going deeper into how systems **communicate, coordinate, adapt, and remain reliable** as network conditions and participating devices change.
+
+- **AI & Intelligent Systems** — exploring how intelligence can be integrated into software to improve **decision-making, context awareness, and system behavior** — with purpose before hype.
+
+- **Edge & Offline-First Computing** — exploring systems that can remain useful when connectivity is limited, including **Edge AI, IoT, and local decision-making**.
+
+- **Software Architecture & System Design** — strengthening the ability to turn ideas into **structured, maintainable systems** rather than just getting individual pieces to work.
+
+- **Technical Exploration** — continuing to experiment with new technologies, hackathon ideas, and real-world problems that make me ask, *“how could this work better?”*
+
+---
+
+## What Else...
+
+Not everything interesting happens inside an IDE.
+
+I like being on the other side of the screen too — **building things with people, organizing technical spaces, entering hackathons, and occasionally chasing an idea just because it makes me curious.**
+
+As an **Office Bearer** in the **Google Students Club** and **IE(I) Association**, I get to turn that curiosity into workshops, technical activities, and events that bring students together.
+
+And when I’m not building or organizing, I tend to wander into questions around **startups, software architecture, emerging technologies, and how a technical idea can become something genuinely useful in the real world.**
+
+> **Build it. Question it. Improve it. Then find something harder to build.**
+
+---
+
+## Connect
 
 <p align="center">
-<a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="[GITHUB_URL]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="[LEETCODE_URL]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:vishwaat27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vishwaat27%40gmail.com-informational?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishwaa-t/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishwaa%20T-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/VishwaaT/">
+    <img src="https://img.shields.io/badge/LeetCode-VishwaaT-informational?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
 </p>
 
-## Technical Landscape
+<!-- Portfolio link will be added once the portfolio is ready. -->
 
-**Languages**
-<p align="left">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+---
 
-**Engineering Foundations**
-<p align="left">
-<img src="https://img.shields.io/badge/OOP-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/Software%20Architecture-3776AB?style=flat-square" />
-</p>
+## GitHub Stats
 
-**Systems & Networking**
-<p align="left">
-<img src="https://img.shields.io/badge/Computer%20Networks-2E7D32?style=flat-square" />
-<img src="https://img.shields.io/badge/Distributed%20Systems-2E7D32?style=flat-square" />
-<img src="https://img.shields.io/badge/Network%20Programming-2E7D32?style=flat-square" />
-<img src="https://img.shields.io/badge/Operating%20Systems-2E7D32?style=flat-square" />
-</p>
-
-**Application Development**
-<p align="left">
-<img src="https://img.shields.io/badge/JavaFX-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/JDBC-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/REST%20APIs-black?style=flat-square" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-**Intelligent & Edge Computing**
-<p align="left">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=flat-square" />
-<img src="https://img.shields.io/badge/Edge%20AI-6A1B9A?style=flat-square" />
-<img src="https://img.shields.io/badge/IoT-6A1B9A?style=flat-square" />
-<img src="https://img.shields.io/badge/Offline--First%20Systems-6A1B9A?style=flat-square" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VishwaaT27&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Vishwaa's GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaaT27&layout=compact&hide_border=true"
+    height="165"
+    alt="Vishwaa's Top Languages"
+  />
 </p>
