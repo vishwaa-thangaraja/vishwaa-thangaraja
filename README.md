@@ -156,19 +156,3 @@ And when I’m not building or organizing, I tend to wander into questions aroun
 <!-- Portfolio link will be added once the portfolio is ready. -->
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vishwaa-thangaraja&show_icons=true&hide_border=true&rank_icon=github"
-    height="165"
-    alt="Vishwaa's GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaa-thangaraja&layout=compact&hide_border=true"
-    height="165"
-    alt="Vishwaa's Top Languages"
-  />
-</p>
