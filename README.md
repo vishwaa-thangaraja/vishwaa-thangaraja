@@ -123,6 +123,18 @@ I’m particularly drawn to problems where **reliability, connectivity, and syst
 
 Not everything interesting happens inside an IDE.
 
+I’m drawn to places where there is something to **figure out, compete in, organize, or learn from**.
+
+I enjoy taking ideas beyond the classroom — competing in **hackathons across colleges**, stepping into **mathematics and science competitions**, and putting myself in unfamiliar situations where the problem is rarely as straightforward as it first appears.
+
+As an **Office Bearer of the Universal Human Values (UHV) Cell**, I help organize and conduct awareness, informative, and engaging activities — while being an active part of the events themselves. It’s a space that has taught me to look beyond technical solutions and understand the people, values, and perspectives surrounding them.
+
+I’m naturally curious about **real-world problems**. Show me something unfamiliar, and my first instinct is usually to understand how it works, why it works, and whether it can work better.
+
+I also like keeping track of the journey — **the attempts that worked, the ones that didn’t, the struggles in between, and the lessons each one leaves behind.** For me, progress isn’t just reaching the outcome; it’s carrying something valuable from every experience into whatever comes next.
+
+> **Compete with curiosity. Build with purpose. Learn from everything.**
+
 ---
 
 ## Connect
