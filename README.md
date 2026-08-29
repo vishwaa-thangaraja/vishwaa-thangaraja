@@ -11,3 +11,4 @@ I’m a Computer Science student interested in how software, networks, and intel
 My work moves between building practical applications, exploring communication and distributed systems, and experimenting with ideas around intelligent and offline-first computing.
 
 I’m particularly drawn to problems where reliability, connectivity, and system behavior matter beyond the code itself.
+---
