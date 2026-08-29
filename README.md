@@ -5,15 +5,22 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vishwaat27@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/vishwaa-t/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/VishwaaT/">LeetCode</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/VishwaaT27">GitHub</a>
+  <a href="mailto:vishwaat27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishwaa-t/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/VishwaaT/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/VishwaaT27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-
 ---
 
 ## About
