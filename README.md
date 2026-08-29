@@ -123,14 +123,6 @@ I’m particularly drawn to problems where **reliability, connectivity, and syst
 
 Not everything interesting happens inside an IDE.
 
-I like being on the other side of the screen too — **building things with people, organizing technical spaces, entering hackathons, and occasionally chasing an idea just because it makes me curious.**
-
-As an **Office Bearer** in the **Google Students Club** and **IE(I) Association**, I get to turn that curiosity into workshops, technical activities, and events that bring students together.
-
-And when I’m not building or organizing, I tend to wander into questions around **startups, software architecture, emerging technologies, and how a technical idea can become something genuinely useful in the real world.**
-
-> **Build it. Question it. Improve it. Then find something harder to build.**
-
 ---
 
 ## Connect
