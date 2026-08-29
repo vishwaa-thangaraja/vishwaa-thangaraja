@@ -12,3 +12,8 @@ My work moves between building practical applications, exploring communication a
 
 I’m particularly drawn to problems where reliability, connectivity, and system behavior matter beyond the code itself.
 ---
+## Current Focus
+
+- Designing systems that remain useful when connectivity, infrastructure, or resources are limited.
+- Exploring computer networks, distributed communication, and system reliability.
+- Building practical software while strengthening foundations in algorithms, architecture, and intelligent systems.
